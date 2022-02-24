@@ -8,10 +8,9 @@
             <value value="adb-N0AA003053K51700259-TBX2eK._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-24T11:28:39.494874Z" />
-        <name value="HMD Global Nokia 7.2" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
