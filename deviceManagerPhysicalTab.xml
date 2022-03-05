@@ -30,9 +30,9 @@
             <value value="47900a3ffd33b073" />
           </Key>
         </key>
-        <name value="samsung GT-N8000" />
-        <target value="Android 4.4" />
-        <api value="19" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
