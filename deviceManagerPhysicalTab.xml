@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.0.143:5555" />
+            <value value="N0AA003053K51700259" />
           </Key>
         </key>
         <name value="HMD Global Nokia 7.2" />
@@ -16,7 +16,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="N0AA003053K51700259" />
+            <value value="192.168.0.143:5555" />
           </Key>
         </key>
         <name value="HMD Global Nokia 7.2" />
