@@ -16,7 +16,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.align.AlignToColumnsAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToUpperCaseAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
