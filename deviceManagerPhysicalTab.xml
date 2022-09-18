@@ -5,12 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="N0AA003053K51700259" />
+          </Key>
+        </key>
+        <name value="HMD Global Nokia 7.2" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="10.9.252.99:5555" />
           </Key>
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,18 +32,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="N0AA003053K51700259" />
-          </Key>
-        </key>
-        <name value="HMD Global Nokia 7.2" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +43,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -54,7 +54,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -65,7 +65,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -76,7 +76,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -87,7 +87,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -98,7 +97,7 @@
         </key>
         <name value="samsung GT-N8000" />
         <target value="Android 4.4" />
-        <api value="19" />
+        <api value="androidversion:19:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -109,7 +108,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -120,7 +119,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -131,7 +130,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -142,7 +141,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -153,7 +152,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -164,7 +163,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -175,7 +174,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
