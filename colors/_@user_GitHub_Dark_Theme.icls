@@ -4,7 +4,7 @@
     <property name="created">2022-10-12T09:52:08</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-10-12T10:04:07</property>
+    <property name="modified">2022-10-12T15:51:21</property>
     <property name="originalScheme">GitHub_Dark_Theme</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -753,8 +753,10 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="f44747" />
         <option name="EFFECT_COLOR" value="f44747" />
         <option name="ERROR_STRIPE_COLOR" value="f44747" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
@@ -1341,6 +1343,7 @@
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f44747" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOCALE.MSGCTXT_KEYWORD">
@@ -2265,6 +2268,7 @@
         <option name="FOREGROUND" value="f44747" />
         <option name="EFFECT_COLOR" value="f44747" />
         <option name="ERROR_STRIPE_COLOR" value="f44747" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
