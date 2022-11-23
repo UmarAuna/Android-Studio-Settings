@@ -82,7 +82,10 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+      <show-values-inline>false</show-values-inline>
+    </data-views>
     <general />
   </component>
 </application>
