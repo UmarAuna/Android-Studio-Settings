@@ -187,6 +187,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="36LBB17622501523" />
+          </Key>
+        </key>
+        <name value="HUAWEI SLA-L22" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
