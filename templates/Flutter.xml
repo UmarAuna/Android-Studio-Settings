@@ -28,13 +28,13 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="gapheight" value="SizedBox(height: $height$)," description="Add height gap" toReformat="false" toShortenFQNames="true">
+  <template name="spaceheight" value="SizedBox(height: $height$)," description="Add height space" toReformat="false" toShortenFQNames="true">
     <variable name="height" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="gapwidth" value="SizedBox(width: $width$)," description="Add width gap" toReformat="false" toShortenFQNames="true">
+  <template name="spacewidth" value="SizedBox(width: $width$)," description="Add width space" toReformat="false" toShortenFQNames="true">
     <variable name="width" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
