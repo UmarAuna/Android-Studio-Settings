@@ -1,0 +1,14 @@
+<templateSet group="Flutter">
+  <template name="stateful" value="import 'package:flutter/material.dart';&#10;&#10;class $CLASS_NAME$ extends StatefulWidget {&#10;  @override&#10;  State&lt;$CLASS_NAME$&gt; createState() {&#10;    return _$CLASS_NAME$State();&#10;  }&#10;}&#10;&#10;class _$CLASS_NAME$State extends State&lt;$CLASS_NAME$&gt; {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    // TODO: implement build&#10;    return null;&#10;  }&#10;}" description="stateful  widget" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="stateless" value="import 'package:flutter/material.dart';&#10;&#10;class $CLASS_NAME$ extends StatelessWidget {&#10;  const $CLASS_NAME$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container();&#10;  }&#10;}&#10;" description="stateless widget" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

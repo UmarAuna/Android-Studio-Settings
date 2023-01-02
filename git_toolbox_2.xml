@@ -3,5 +3,7 @@
     <option name="autoFetchEnabled" value="false" />
     <option name="autoFetchOnBranchSwitch" value="false" />
     <option name="blameInlineAuthorNameType" value="FULL" />
+    <option name="startupNotificationVersion" value="1" />
+    <option name="version" value="6" />
   </component>
 </application>
