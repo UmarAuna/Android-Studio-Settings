@@ -1,4 +1,9 @@
 <templateSet group="Flutter">
+  <template name="mediaquery" value="MediaQuery.of(context)" description="Create MediaQueryData from build context" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
   <template name="stateful" value="import 'package:flutter/material.dart';&#10;&#10;class $CLASS_NAME$ extends StatefulWidget {&#10;  @override&#10;  State&lt;$CLASS_NAME$&gt; createState() {&#10;    return _$CLASS_NAME$State();&#10;  }&#10;}&#10;&#10;class _$CLASS_NAME$State extends State&lt;$CLASS_NAME$&gt; {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    // TODO: implement build&#10;    return null;&#10;  }&#10;}" description="stateful  widget" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -7,6 +12,41 @@
   </template>
   <template name="stateless" value="import 'package:flutter/material.dart';&#10;&#10;class $CLASS_NAME$ extends StatelessWidget {&#10;  const $CLASS_NAME$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container();&#10;  }&#10;}&#10;" description="stateless widget" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="navigate" value="Navigator.push(&#10;        context,&#10;        MaterialPageRoute(&#10;            builder: (context) =&gt;$Page$(),&#10;        ),&#10;    );" description="navigate to another screen" toReformat="true" toShortenFQNames="true">
+    <variable name="Page" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="navigateClearStack" value="Navigator.pushAndRemoveUntil(&#10;  context,&#10;  MaterialPageRoute(&#10;    builder: (context) =&gt; $ClassName$(),&#10;  ),&#10;  (Route&lt;dynamic&gt; route) =&gt; false,&#10;);" description="navigate to another screen and clear stack" toReformat="true" toShortenFQNames="true">
+    <variable name="ClassName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="gapheight" value="SizedBox(height: $height$)," description="Add height gap" toReformat="false" toShortenFQNames="true">
+    <variable name="height" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="gapwidth" value="SizedBox(width: $width$)," description="Add width gap" toReformat="false" toShortenFQNames="true">
+    <variable name="width" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="pop" value="Navigator.pop(context);" description="Close Screen" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="delay" value="await Future.delayed(Duration(seconds: $seconds$));" description="delay" toReformat="false" toShortenFQNames="true">
+    <variable name="seconds" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
     </context>
