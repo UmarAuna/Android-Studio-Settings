@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="N0AA003053K51700259" />
+          </Key>
+        </key>
+        <name value="HMD Global Nokia 7.2" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="10.14.5.156:5555" />
           </Key>
         </key>
@@ -28,17 +39,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="10.136.56.248:5555" />
-          </Key>
-        </key>
-        <name value="HMD Global Nokia 7.2" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="N0AA003053K51700259" />
           </Key>
         </key>
         <name value="HMD Global Nokia 7.2" />
