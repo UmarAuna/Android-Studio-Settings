@@ -21,6 +21,13 @@
   <component name="codewhispererAutotriggerStates">
     <option name="classifierGroup" value="false" />
   </component>
+  <component name="codewhispererStates">
+    <option name="value">
+      <map>
+        <entry key="IsAutoEnabled" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="connectionPinningManager">
     <option name="pinnedConnections">
       <map>
