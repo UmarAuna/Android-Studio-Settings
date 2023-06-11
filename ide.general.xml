@@ -16,6 +16,7 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="Position" value="false" />
+        <entry key="aws.codewhisperer" value="false" />
       </map>
     </option>
   </component>
