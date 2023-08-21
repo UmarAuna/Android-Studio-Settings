@@ -10,7 +10,7 @@
         </key>
         <name value="HMD Global Nokia 7.2" />
         <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <api value="androidversion:30:null:6:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
