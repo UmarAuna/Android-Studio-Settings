@@ -21,6 +21,13 @@
   <component name="codewhispererAutotriggerStates">
     <option name="classifierGroup" value="false" />
   </component>
+  <component name="codewhispererSettings">
+    <option name="value">
+      <map>
+        <entry key="IsIncludeCodeWithReference" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="codewhispererStates">
     <option name="value">
       <map>
