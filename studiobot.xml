@@ -1,0 +1,11 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="contextSharingMode" value="ALWAYS_SHARE" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1714569677532">explain the code that is in main.dart in my project</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>
