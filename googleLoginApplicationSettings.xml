@@ -7,8 +7,8 @@
           <value>
             <set>
               <option value="Gemini" />
-              <option value="Firebase" />
               <option value="User Info" />
+              <option value="Firebase" />
             </set>
           </value>
         </entry>
