@@ -6,9 +6,9 @@
         <entry key="umarmanofpeace@gmail.com">
           <value>
             <set>
-              <option value="Gemini" />
-              <option value="Firebase" />
               <option value="User Info" />
+              <option value="Firebase" />
+              <option value="Gemini" />
             </set>
           </value>
         </entry>
