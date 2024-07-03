@@ -1,0 +1,19 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="contextSharingMode" value="ALWAYS_SHARE" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1715885995512">Make suggestions to improve this code:
+await initServices();</historyEntry>
+        <historyEntry timestamp="1715780968074">Make suggestions to improve this code:
+mainAxisAlignment: MainAxisAlignment.center,</historyEntry>
+        <historyEntry timestamp="1715780948663">Make suggestions to improve this code:
+mainAxisAlignment: MainAxisAlignment.center,</historyEntry>
+        <historyEntry timestamp="1715780897957">Explain the following code: 
+mainAxisAlignment: MainAxisAlignment.center,</historyEntry>
+        <historyEntry timestamp="1714569677532">explain the code that is in main.dart in my project</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>

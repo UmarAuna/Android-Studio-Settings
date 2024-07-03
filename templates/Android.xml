@@ -1,0 +1,7 @@
+<templateSet group="Android">
+  <template name="navigator" value="   private val directions by lazy { AccountSecuredDialogDirections }&#10;    val direction = directions.actionAccountSecuredDialogToEnableFingerPrintDialog()&#10;    findNavController().navigate(direction)" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

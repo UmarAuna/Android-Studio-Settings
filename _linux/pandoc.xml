@@ -1,0 +1,5 @@
+<application>
+  <component name="Pandoc.Application.Settings">
+    <option name="myPathToImages" value="$USER_HOME$/Downloads/Red101-MarketPlace-Android/Red101-MarketPlace/import-resources" />
+  </component>
+</application>
