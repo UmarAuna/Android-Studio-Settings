@@ -6,6 +6,7 @@
     <property name="ideVersion">2022.2.1.20</property>
     <property name="modified">2024-06-24T20:16:16</property>
     <property name="originalScheme">GitHub Dark Dimmed</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
