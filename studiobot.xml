@@ -5,6 +5,9 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1728561992666">explain this
+onboardingController
+                               .navigateToWelcomePage(context);</historyEntry>
         <historyEntry timestamp="1715885995512">Make suggestions to improve this code:
 await initServices();</historyEntry>
         <historyEntry timestamp="1715780968074">Make suggestions to improve this code:
