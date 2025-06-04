@@ -5,6 +5,27 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1749033356969">Make suggestions to improve this code:
+```dart
+await Get.putAsync&lt;StorageService&gt;(() =&gt; StorageService().init());
+ await Get.putAsync&lt;SecureStorageService&gt;(() =&gt; SecureStorageService().init());
+ await Get.putAsync&lt;Repository&gt;(() =&gt; Repository().init());
+ Get.lazyPut&lt;MainController&gt;(() =&gt; MainController());
+ Get.lazyPut&lt;OnboardingController&gt;(() =&gt; OnboardingController());
+ Get.lazyPut&lt;AuthenticationController&gt;(() =&gt; AuthenticationController());
+ Get.put(DashboardController());
+```</historyEntry>
+        <historyEntry timestamp="1749033286481">Explain the following code: 
+```dart
+await Get.putAsync&lt;StorageService&gt;(() =&gt; StorageService().init());
+  await Get.putAsync&lt;SecureStorageService&gt;(() =&gt; SecureStorageService().init());
+  await Get.putAsync&lt;Repository&gt;(() =&gt; Repository().init());
+  Get.lazyPut&lt;MainController&gt;(() =&gt; MainController());
+  Get.lazyPut&lt;OnboardingController&gt;(() =&gt; OnboardingController());
+  Get.lazyPut&lt;AuthenticationController&gt;(() =&gt; AuthenticationController());
+  Get.put(DashboardController());
+}
+```</historyEntry>
         <historyEntry timestamp="1728561992666">explain this
 onboardingController
                                .navigateToWelcomePage(context);</historyEntry>
