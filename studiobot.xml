@@ -2,9 +2,23 @@
   <component name="StudioBotSettings">
     <option name="acceptedTermsVersion" value="3" />
     <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="dasherProductVariant" value="Free" />
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1750870129459">A problem occurred configuring root project 'Fingerprint'.
+&gt; Could not resolve all artifacts for configuration ':classpath'.
+   &gt; Could not resolve com.android.tools:sdk-common:31.8.0.
+     Required by:
+         root project : &gt; com.android.application:com.android.application.gradle.plugin:8.8.0 &gt; com.android.tools.build:gradle:8.8.0
+         root project : &gt; com.android.application:com.android.application.gradle.plugin:8.8.0 &gt; com.android.tools.build:gradle:8.8.0 &gt; com.android.tools.lint:lint-model:31.8.0
+         root project : &gt; com.android.application:com.android.application.gradle.plugin:8.8.0 &gt; com.android.tools.build:gradle:8.8.0 &gt; com.android.tools.build:builder:8.8.0
+         root project : &gt; com.android.application:com.android.application.gradle.plugin:8.8.0 &gt; com.android.tools.build:gradle:8.8.0 &gt; com.android.tools.build:builder:8.8.0 &gt; com.android.tools.build:manifest-merger:31.8.0
+      &gt; Could not resolve com.android.tools:sdk-common:31.8.0.
+         &gt; Could not get resource 'https://dl.google.com/dl/android/maven2/com/android/tools/sdk-common/31.8.0/sdk-common-31.8.0.pom'.
+            &gt; Could not GET 'https://dl.google.com/dl/android/maven2/com/android/tools/sdk-common/31.8.0/sdk-common-31.8.0.pom'.
+               &gt; The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.10.2/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  &gt; Remote host terminated the handshake</historyEntry>
         <historyEntry timestamp="1749033356969">Make suggestions to improve this code:
 ```dart
 await Get.putAsync&lt;StorageService&gt;(() =&gt; StorageService().init());

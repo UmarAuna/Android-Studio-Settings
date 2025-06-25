@@ -15,10 +15,10 @@
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="CARET_COLOR" value="6cb6ff" />
-    <option name="CARET_ROW_COLOR" value="2d333b" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1e2228" />
-    <option name="GUTTER_BACKGROUND" value="22272e" />
+    <option name="CARET_COLOR" value="6CB6FF" />
+    <option name="CARET_ROW_COLOR" value="2D333B" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1E2228" />
+    <option name="GUTTER_BACKGROUND" value="22272E" />
     <option name="SELECTION_BACKGROUND" value="274467" />
   </colors>
   <attributes>
