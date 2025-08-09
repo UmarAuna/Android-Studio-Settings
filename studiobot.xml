@@ -6,6 +6,35 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754726584566">I'm getting the following error while syncing my project. The error is: Plugin [id: 'com.google.devtools.ksp', version: '2.0.21-1.0.21', apply: false] was not found in any of the following sources:
+```
+Build file '/Users/mac/StudioProjects/PatientRecordTestUmar/build.gradle.kts' line: 2
+
+Plugin [id: 'com.google.devtools.ksp', version: '2.0.21-1.0.21', apply: false] was not found in any of the following sources:
+
+* Try:
+&gt; Run with --info or --debug option to get more log output.
+&gt; Run with --scan to get full insights.
+&gt; Get more help at https://help.gradle.org.
+
+* Exception is:
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1754726203508">I'm getting the following error while syncing my project. The error is: Plugin [id: 'com.google.devtools.ksp', version: '2.0.21-1.0.21', apply: false] was not found in any of the following sources:
+```
+Build file '/Users/mac/StudioProjects/PatientRecordTestUmar/build.gradle.kts' line: 2
+
+Plugin [id: 'com.google.devtools.ksp', version: '2.0.21-1.0.21', apply: false] was not found in any of the following sources:
+
+* Try:
+&gt; Run with --info or --debug option to get more log output.
+&gt; Run with --scan to get full insights.
+&gt; Get more help at https://help.gradle.org.
+
+* Exception is:
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1754725804996">how to add Room DB starts from adding dependency</historyEntry>
         <historyEntry timestamp="1754724776370">how to add jetpack compose navigation from adding dependency</historyEntry>
         <historyEntry timestamp="1754724054400">I'm getting the following error while syncing my project. The error is: Unresolved reference: hilt
 ```
