@@ -14,6 +14,18 @@
             </BitRateTracker>
           </value>
         </entry>
+        <entry key="Xiaomi|2409BRN2CA|arm64-v8a|35">
+          <value>
+            <BitRateTracker>
+              <candidates>
+                <CandidateBitRate>
+                  <option name="bitRate" value="2000000" />
+                  <option name="score" value="334" />
+                </CandidateBitRate>
+              </candidates>
+            </BitRateTracker>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
