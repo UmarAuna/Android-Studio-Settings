@@ -6,6 +6,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754724776370">how to add jetpack compose navigation from adding dependency</historyEntry>
         <historyEntry timestamp="1754724054400">I'm getting the following error while syncing my project. The error is: Unresolved reference: hilt
 ```
 e: file:///Users/mac/StudioProjects/PatientRecordTestUmar/app/build.gradle.kts:6:24: Unresolved reference: hilt
