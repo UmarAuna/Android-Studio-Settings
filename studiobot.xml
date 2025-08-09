@@ -6,6 +6,12 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754745795725">Unresolved reference 'Transformations'.
+
+  val searchResults: LiveData&lt;List&lt;PatientEntity&gt;&gt; = Transformations.switchMap(_query) { q: String? -&gt;
+        if (q.isNullOrBlank()) repo.getAllPatients() else repo.searchPatients(q)
+    }</historyEntry>
+        <historyEntry timestamp="1754745172080">i am getting Unresolved reference 'hilt' val vm: AddEditViewModel = androidx.hilt.navigation.compose.hiltViewModel()</historyEntry>
         <historyEntry timestamp="1754738323166">how can i import this in a jetpack comppose project
 
 HttpLoggingInterceptor()</historyEntry>
