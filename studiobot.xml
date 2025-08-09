@@ -6,6 +6,15 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754728604606">I'm getting the following error while building my project. The error is: cannot find symbol class AndroidEntryPoint
+```
+$ ./gradlew :app:kaptDebugKotlin
+/Users/mac/StudioProjects/PatientRecordTestUmar/app/build/tmp/kapt3/stubs/debug/com/patientrecordtest/umar/MainActivity.java:9: error: cannot find symbol
+@AndroidEntryPoint()
+ ^
+  symbol: class AndroidEntryPoint
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1754727522834">I'm getting the following error while syncing my project. The error is: Unresolved reference: ksp
 ```
 e: file:///Users/mac/StudioProjects/PatientRecordTestUmar/app/build.gradle.kts:46:5: Unresolved reference: ksp
