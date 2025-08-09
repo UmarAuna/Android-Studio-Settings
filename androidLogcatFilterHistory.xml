@@ -5,10 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="com.patientrecordtest.umar" />
     <option name="nonFavorites">
       <list>
-        <option value="doyar" />
+        <option value="com.patientrecordtest.umar" />
+        <option value="com." />
+        <option value="package:mine" />
       </list>
     </option>
   </component>

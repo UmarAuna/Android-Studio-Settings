@@ -6,6 +6,12 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754751130075">am getting this error now
+
+No value passed for parameter 'onDone'.</historyEntry>
+        <historyEntry timestamp="1754750752043">pass navController 
+
+ AddEditScreen(viewModel = vm, patientId = id, navController = navController ) { navController.popBackStack() }</historyEntry>
         <historyEntry timestamp="1754745795725">Unresolved reference 'Transformations'.
 
   val searchResults: LiveData&lt;List&lt;PatientEntity&gt;&gt; = Transformations.switchMap(_query) { q: String? -&gt;
