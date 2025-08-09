@@ -6,6 +6,19 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754724054400">I'm getting the following error while syncing my project. The error is: Unresolved reference: hilt
+```
+e: file:///Users/mac/StudioProjects/PatientRecordTestUmar/app/build.gradle.kts:6:24: Unresolved reference: hilt
+
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1754723736063">how to add hilt in a jetpack compose project from adding in dependency</historyEntry>
+        <historyEntry timestamp="1754723365848">I'm getting the following error while syncing my project. The error is: Type mismatch: inferred type is JavaVersion but String was expected
+```
+e: file:///Users/mac/StudioProjects/PatientRecordTestUmar/app/build.gradle.kts:17:21: Type mismatch: inferred type is JavaVersion but String was expected
+
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1754723152068">it keeps pointing me to this import jdk.tools.jlink.resources.plugins and everytime i delete it keeps coming back</historyEntry>
         <historyEntry timestamp="1754723023429">my project contains some red errors in all my build.gradle.kts and settings.gradle.kts</historyEntry>
       </list>
