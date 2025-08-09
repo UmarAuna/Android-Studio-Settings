@@ -6,6 +6,14 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754738323166">how can i import this in a jetpack comppose project
+
+HttpLoggingInterceptor()</historyEntry>
+        <historyEntry timestamp="1754737759891">fun getAllPatients(): LiveData&lt;List&lt;patiententity&gt;&gt; { try { return dao.getAllPatients() } catch (e: Exception) { throw Exception(e.message) } }&lt;/patiententity&gt;
+
+Should this not have LiveData just like the above
+
+suspend fun getPatientById(id: Int): PatientEntity? = withContext(Dispatchers.IO) { try { dao.getPatientById(id) } catch (e: Exception) { throw Exception(e.message) } }</historyEntry>
         <historyEntry timestamp="1754728604606">I'm getting the following error while building my project. The error is: cannot find symbol class AndroidEntryPoint
 ```
 $ ./gradlew :app:kaptDebugKotlin
