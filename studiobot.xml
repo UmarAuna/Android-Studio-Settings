@@ -6,6 +6,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754758072518">still facing the same issue please give me alternativr</historyEntry>
+        <historyEntry timestamp="1754757753571">Unresolved reference 'Brightness7'.</historyEntry>
         <historyEntry timestamp="1754756701784">i want to add an icon that toggles light and dark mode in PatientListScreen.kt inside Scaffold</historyEntry>
         <historyEntry timestamp="1754751130075">am getting this error now
 
