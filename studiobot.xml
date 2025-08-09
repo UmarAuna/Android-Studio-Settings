@@ -6,12 +6,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1750935708801">I'm getting the following error while syncing my project. The error is: Failed to resolve: androidx.biometric:biometric:1.2.0
-How do I fix this?</historyEntry>
-        <historyEntry timestamp="1750933804045">can you add a button seperate for trigerring facial</historyEntry>
-        <historyEntry timestamp="1750933668772">can you adda button seperate for trigerring facial</historyEntry>
-        <historyEntry timestamp="1750932812483">please implement this for in my code</historyEntry>
-        <historyEntry timestamp="1750932700469">face recognition login with jetpack compose android is it even</historyEntry>
+        <historyEntry timestamp="1754723152068">it keeps pointing me to this import jdk.tools.jlink.resources.plugins and everytime i delete it keeps coming back</historyEntry>
+        <historyEntry timestamp="1754723023429">my project contains some red errors in all my build.gradle.kts and settings.gradle.kts</historyEntry>
       </list>
     </option>
   </component>
