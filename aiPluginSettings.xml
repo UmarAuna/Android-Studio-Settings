@@ -1,5 +1,17 @@
 <application>
   <component name="AiPluginSettings">
+    <option name="gcpProjectByEmail">
+      <map>
+        <entry key="umarmanofpeace@gmail.com">
+          <value>
+            <GcpProjectSettings>
+              <option name="gcpProjectId" value="plucky-discovery-p5tpm" />
+              <option name="gcpProjectName" value="plucky-discovery-p5tpm" />
+            </GcpProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="lastLoggedInEmail" value="umarmanofpeace@gmail.com" />
   </component>
 </application>
