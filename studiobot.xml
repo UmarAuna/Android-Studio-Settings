@@ -6,7 +6,27 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1755640239551">What is a composable?</historyEntry>
+        <historyEntry timestamp="1755676226385">why am i using observeForever and how can i remove it
+
+
+ LaunchedEffect(patientId) {
+        patientId?.let { id -&gt;
+            viewModel.loadPatient(id)
+            viewModel.patient.observeForever { p -&gt;
+                p?.let {
+                    name = it.name
+                    age = it.age.toString()
+                    gender = it.gender
+                    phone = it.phone
+                    condition = it.condition
+                }
+            }
+        }
+    }</historyEntry>
+        <historyEntry timestamp="1755674262755">why did i not put @Singleton here
+
+ @Provides
+    fun providePatientDao(db: AppDatabase): PatientDao = db.patientDao()</historyEntry>
       </list>
     </option>
   </component>
