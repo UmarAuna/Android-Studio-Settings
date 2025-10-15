@@ -2,10 +2,12 @@
   <component name="StudioBotSettings">
     <option name="acceptedTermsVersion" value="3" />
     <option name="contextSharingModeV2" value="AlwaysShare" />
-    <option name="dasherProductVariant" value="GeminiForBusinesses" />
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1760551335847">this is not reacting when i change the value controller
+
+itemCount: controller.productItemTotal.value,</historyEntry>
         <historyEntry timestamp="1755676226385">why am i using observeForever and how can i remove it
 
 
