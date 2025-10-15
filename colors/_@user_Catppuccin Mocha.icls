@@ -6,6 +6,7 @@
     <property name="originalScheme">Catppuccin Mocha</property>
     <property name="partialSave">true</property>
     <property name="pluginId">com.github.catppuccin.jetbrains</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
