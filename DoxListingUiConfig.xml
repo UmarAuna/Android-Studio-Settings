@@ -1,0 +1,5 @@
+<application>
+  <component name="DoxListingUiConfig">
+    <option name="checkFlutterVersion" value="false" />
+  </component>
+</application>
