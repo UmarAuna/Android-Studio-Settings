@@ -6,9 +6,10 @@
         <entry key="umarmanofpeace@gmail.com">
           <value>
             <set>
-              <option value="GiAS" />
+              <option value="Notifications" />
               <option value="User Info" />
               <option value="Firebase" />
+              <option value="GiAS" />
               <option value="Android Vitals" />
               <option value="Gemini" />
             </set>
